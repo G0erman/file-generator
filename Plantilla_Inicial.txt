@@ -1,0 +1,3 @@
+Bucaramanga	528,269
+Floridablanca	266,049
+Barrancabermeja	191,704
