@@ -1,3 +1,17 @@
 Bucaramanga	528,269
 Floridablanca	266,049
 Barrancabermeja	191,704
+Girón	185,314
+Piedecuesta	152,707
+Cimitarra	45,901
+San Gil	45,605
+Lebríja	39,398
+San Vicente de Chucurí	34,759
+Puerto Wilches	31,510
+Socorro	30,717
+Barbosa	28,873
+Rionegro	26,896
+El Carmen de Chucurí	20,296
+Vélez	18,993
+Sabana de Torres	18,493
+Málaga	18,352
